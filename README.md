@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aa98-45556443355666
 - 👀 I’m interested in ... python,c++,javascript,dsa,algorithms
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... web development and dsa.
 - 💞️ I’m looking to collaborate on ... dsa,algorithms,projects
 - 📫 How to reach me ... contact no-7876854943,email id- aarushkumarchoubey@gmail.com
 
