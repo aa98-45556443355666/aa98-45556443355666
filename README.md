@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Aarush Choubey, a passionate web developer.🚀</div> 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7fQ1CydIS4C_yCKEZuilpFiAGiDuY0xfZFw&usqp=CAU"> 
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"> 
   
 
 - *🌱 I’m currently learning Frameworks and Data Structures & Algorithms.*  
@@ -18,8 +18,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Programming Languages  
 <div align="center">  
