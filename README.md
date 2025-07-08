@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 <br>🚀 I'm a passionate developer transitioning into the tech industry.<br>
-🌱 Currently learning Flask, MySQL, and strengthening my Data Structures & Algorithms skills.<br>
+🌱 Currently learning Flask, SQL, and strengthening my Data Structures & Algorithms skills.<br>
 💡 I enjoy building real-world projects and exploring web technologies.<br>
 ⚡ Fun fact: I once used Alt+F4 thinking it was a shortcut to refresh 😅
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
